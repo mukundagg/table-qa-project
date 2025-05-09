@@ -1,4 +1,4 @@
-# TALSMOSS (Tabular LLM Subcomponents Mongo Subquery System)
+# TALSMOS (Tabular LLM Subcomponents MongoDB System)
 
 The dependencies for this project are:
 ```
